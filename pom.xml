@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>bootstrap-social</artifactId>
-    <version>4.9.0</version>
+    <version>4.9.1-SNAPSHOT</version>
     <name>bootstrap-social</name>
     <description>WebJar for bootstrap-social</description>
     <url>http://webjars.org</url>
@@ -50,7 +50,7 @@
         <url>http://github.com/webjars/bootstrap-social</url>
         <connection>scm:git:https://github.com/webjars/bootstrap-social.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/bootstrap-social.git</developerConnection>
-        <tag>bootstrap-social-4.9.0</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <build>
